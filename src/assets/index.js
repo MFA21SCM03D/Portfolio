@@ -1,6 +1,5 @@
 export {default as Profile} from '../assets/profile.JPG';
 export {default as AndroidStudio} from '../assets/AndroidStudio.svg'
-export {default as AnimeSuggest} from '../assets/AnimeSuggest.png';
 export {default as CSS3} from '../assets/CSS3.svg';
 export {default as Docker} from '../assets/Docker.svg';
 export {default as ESLint} from '../assets/ESLint.svg';
@@ -20,7 +19,6 @@ export {default as Linux} from '../assets/Linux.svg';
 export {default as MySQL} from '../assets/MySQL.svg';
 export {default as MongoDB} from '../assets/MongoDB.svg'
 export {default as Nextjs} from '../assets/Next.js.svg';
-export {default as Pokedex} from '../assets/pokedex.png';
 export {default as Postman} from '../assets/Postman.svg';
 export {default as Python} from '../assets/Python.svg';
 export {default as Reactjs} from '../assets/Reactjs.svg';
@@ -28,6 +26,5 @@ export {default as Redux} from '../assets/Redux.svg';
 export {default as SQLAlchemy} from '../assets/SQLAlchemy.svg';
 export {default as Storybook} from '../assets/Storybook.svg';
 export {default as TailwindCSS} from '../assets/TailwindCSS.svg';
-export {default as TechR} from '../assets/techr_web_logo.jpg';
 export {default as TypeScript} from '../assets/TypeScript.svg';
 export {default as Zeplin} from '../assets/Zeplin.svg';
