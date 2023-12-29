@@ -1,0 +1,97 @@
+.skills {
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+.skills hr {
+    border-color: var(--TANGERINE-DREAM);
+    border-radius: 1.25rem; 
+    border-width: 0.125rem;     
+    margin-top: 0.5rem;     
+    width: 2.375rem; 
+}
+
+.skills_frontend_set,
+.skills_backend_set,
+.skills_design_set,
+.skills_versioncontrol_set,
+.skills_software_tool_set {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(60px, 1fr));
+    gap: 1.25rem;
+    margin: 1.5625rem; 
+}
+
+.skills_frontend_set_figure,
+.skills_backend_set_figure,
+.skills_design_set_figure,
+.skills_versioncontrol_set_figure,
+.skills_software_tool_set_figure {
+    align-items: center;
+    display: flex;
+    gap: 1.125rem; 
+    justify-content: center;
+    margin-bottom: 1.125rem; 
+    width: fit-content;
+}
+
+.skills_frontend_set_figure img,
+.skills_backend_set_figure img,
+.skills_design_set_figure img,
+.skills_versioncontrol_set_figure img,
+.skills_software_tool_set_figure img {
+    border-radius: 0;
+    height: 2.75rem; 
+    width: 2.75rem;
+}
+
+
+
+/* Medium to Large Laptops and Desktops */
+@media only screen and (min-width: 1025px) {
+    /* Styles for medium to large laptops and desktops */
+    .skills_frontend_set,
+    .skills_backend_set,
+    .skills_design_set,
+    .skills_versioncontrol_set,
+    .skills_software_tool_set {
+        grid-template-columns: repeat(5, minmax(3.75rem, 1fr));
+    }
+    
+  }
+  
+  /* Small Laptops and Desktops */
+  @media only screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Styles for small laptops and desktops */
+    .skills_frontend_set,
+    .skills_backend_set,
+    .skills_design_set,
+    .skills_versioncontrol_set,
+    .skills_software_tool_set {
+        grid-template-columns: repeat(3, minmax(3.75rem, 1fr));
+    }
+  }
+  
+  /* Tablets */
+  @media only screen and (min-width: 481px) and (max-width: 767px) {
+    /* Styles for tablets */
+    .skills_frontend_set,
+    .skills_backend_set,
+    .skills_design_set,
+    .skills_versioncontrol_set,
+    .skills_software_tool_set {
+        grid-template-columns: repeat(2, minmax(3.75rem, 1fr));
+    }
+  }
+  
+  /* Mobile Phones */
+  @media only screen and (max-width: 480px) {
+    /* Styles for mobile phones */
+    .skills_frontend_set,
+    .skills_backend_set,
+    .skills_design_set,
+    .skills_versioncontrol_set,
+    .skills_software_tool_set {
+        grid-template-columns: repeat(1, minmax(3.75rem, 1fr));
+    }
+  }

@@ -1,0 +1,79 @@
+.navbar {
+    background: var(--NAVBAR-BACKGROUND);
+    border-top-left-radius: 0.625rem;
+    border-top-right-radius: 0.625rem;
+    border: 0.0625rem solid var(--NIGHT-SKY); 
+    bottom: 0;
+    height: 3rem;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.navbar_pages {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-top: 0.9375rem; 
+}
+
+a {
+    text-decoration: none;
+}
+
+a {
+    color: var(--PURE-WHITE);
+}
+
+a:hover,
+a:focus-visible {
+    color: var(--SEMI-TRANSPARENT-SILVER);
+}
+
+a:active,
+a:focus,
+a[aria-current='page'] {
+    color: var(--TANGERINE-DREAM);
+}
+
+
+@media only screen and (min-width: 1025px) {
+    .navbar {
+        border-bottom-left-radius: 1.125rem;
+        border-top-right-radius: 1rem; 
+        margin-left: 58.25rem;
+        margin-top: 1.8rem;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 1026px) and (max-width: 1366px) {
+    .navbar {
+        margin-left: 40.8rem;
+    }
+}
+
+@media screen and (min-width: 1027px) and (max-width: 1180px) {
+    .navbar{
+        margin-left: 35.1rem;
+    }    
+}
+
+@media screen and (min-width: 1028px) and (max-width: 1114px) {
+    .navbar{
+        margin-left: 33.6rem;
+    }
+}
+
+@media screen and (min-width: 1115px) and (max-width: 1280px) {
+    .navbar{
+        margin-left: 38.8rem;
+    }
+}
+
+  
