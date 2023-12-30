@@ -45,6 +45,10 @@ function Skills() {
             <figcaption>GatsbyJS</figcaption>
           </figure>
           <figure className="skills_frontend_set_figure">
+            <img src={Nextjs} alt=""/>
+            <figcaption>NextJS</figcaption>
+          </figure>
+          <figure className="skills_frontend_set_figure">
             <img src={Redux} alt="" />
             <figcaption>Redux</figcaption>
           </figure>
@@ -53,10 +57,6 @@ function Skills() {
       <section className="skills_backend">
         <h2>Backend</h2>
         <div className="skills_backend_set">
-          <figure className="skills_backend_set_figure">
-            <img src={Nextjs} alt=""/>
-            <figcaption>NextJS</figcaption>
-          </figure>
           <figure className="skills_backend_set_figure">
             <img src={MySQL} alt="" />
             <figcaption>MySQL</figcaption>
