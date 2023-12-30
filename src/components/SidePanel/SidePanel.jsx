@@ -3,7 +3,6 @@ import {Profile} from "../../assets"
 import './SidePanel.css'
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import LocationCityIcon from '@mui/icons-material/LocationCity';
 import MailOutLine from '@mui/icons-material/MailOutline';
 import SmartphoneIcon from '@mui/icons-material/Smartphone';
 import KeyboardArrowDownOutlinedIcon from '@mui/icons-material/KeyboardArrowDownOutlined';
@@ -19,11 +18,7 @@ function SidePanel() {
       if(window.innerWidth >= 1025){
         setIsSidepanelVisibile(true)
       }
-    
-      return () => {
-        
-      }
-    }, [])
+}, [])
     
 
   return (
@@ -48,24 +43,21 @@ function SidePanel() {
                     <hr/>
                     <div className="sidepanel_info">
                         <div className="sidepanel_info_email">
-                            <button className="sidepanel_info_email_btn"><MailOutLine/></button>
+                            <a href="mailto:mdeshmukh1@hawk.iit.edu">
+                                <button className="sidepanel_info_email_btn"><MailOutLine/></button>
+                            </a>
                             <div className="sidepanel_info_email_details">
                                 <p className='sidepanel_info_email_details_label'>EMAIL</p>
-                                <p>mdeshmukh1@hawk.iit.edu</p>
+                                <a href='mailto:mdeshmukh1@hawk.iit.edu'>mdeshmukh1@hawk.iit.edu</a>
                             </div>
                         </div>
                         <div className="sidepanel_info_phone">
-                            <button className="sidepanel_info_phone_btn"><SmartphoneIcon/></button>
+                            <a href='tel:+13127312752'>
+                                <button className="sidepanel_info_phone_btn"><SmartphoneIcon/></button>
+                            </a>
                             <div className="sidepanel_info_phone_details">
                                 <p className='sidepanel_info_phone_details_label'>PHONE</p>
-                                <p>+1 (312) 731-2752</p>
-                            </div>
-                        </div>
-                        <div className="sidepanel_info_location">
-                            <button className="sidepanel_info_location_btn"><LocationCityIcon/></button>
-                            <div className="sidepanel_info_location_details">
-                                <p className='sidepanel_info_location_details_label'>LOCATION</p>
-                                <p>Chicago, IL, USA</p>
+                                <a href='tel:+13127312752'>+1 (312) 731-2752</a>
                             </div>
                         </div>
                         <div className="sidepanel_info_socials">

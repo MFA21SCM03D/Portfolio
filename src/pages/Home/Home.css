@@ -34,7 +34,6 @@
     background-color: var(--SHADOWED-BLUE);
     border-radius: 0.625rem; 
     border: 0.0625rem solid var(--NIGHT-SKY); 
-    box-shadow: var(--ELEVATED-SHADOW);
     display: flex;
     gap: 1.5rem;
     height: 8rem;
