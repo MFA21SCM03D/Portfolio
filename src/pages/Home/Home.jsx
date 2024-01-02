@@ -13,8 +13,8 @@ function Home() {
       <div className="home_aboutme_desc">
         <h3>Hi there,</h3>
         <br/>
-        I am a Computer Science graduate from the Illinois Institute of Technology, Chicago, achieving a stellar 3.90 GPA. 
-        Currently seeking opportunities as a Software Engineer, I bring over 2 years of experience in both Full Stack and Mobile Application development.
+        I am a Frontend Software Developer, graduated from the Illinois Institute of Technology, Chicago, achieving a stellar 3.90 GPA. 
+        Currently seeking opportunities as a Software Engineer, I bring over 2 years of experience.
         <br /><br />
         Passionate about staying ahead of industry trends, I have contributed to diverse projects and demonstrate a commitment to continuous learning. 
         My tech repertoire includes proficiency in Reactjs, Nextjs, MySQL, Python, HTML5, CSS3, JavaScript, TypeScript, Figma, Zeplin, GatsbyJS, Jira, and Git. 
