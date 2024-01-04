@@ -45,7 +45,7 @@ function Resume() {
               </ul>
             </li>
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>Frontend Developer</h5>
+              <h5 className='resume_experience_detail_item_title'>Full Stack Developer</h5>
               <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
               <span>June 2020 - Jan 2021</span>
               <ul className='.resume_experience_detail_item_bullet'>
