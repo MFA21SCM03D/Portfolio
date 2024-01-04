@@ -39,7 +39,7 @@ function Resume() {
               <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
               <span>Jan 2021 - Dec 2022</span>
               <ul className='.resume_experience_detail_item_bullet'>
-                <li className='resume_experience_detail_item_bullet_point'>Held 2 office hours a week to coach and guide students to fathom coursework and certain topic content. </li>
+                <li className='resume_experience_detail_item_bullet_point'>Held 2 office hours a week to coach and guide students to fathom coursework and topics covering web fundamentals </li>
                 <li className='resume_experience_detail_item_bullet_point'>Addressed student’s doubts, aided professors with 2 exam monitoring.</li>    
                 <li className='resume_experience_detail_item_bullet_point'>Supervised 56 student Github repositories and conducted code reviews.</li>
               </ul>
@@ -77,15 +77,16 @@ function Resume() {
               </ul>
             </li>
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>Frontend Developer</h5>
+              <h5 className='resume_experience_detail_item_title'>Mobile Application Developer</h5>
               <h5 className="resume_experience_detail_item_subtitle">TechR Bussiness Solutions, Pune</h5>
               <span>June 2019 - Nov 2020</span>
               <ul className='.resume_experience_detail_item_bullet'>
                 <li className='resume_experience_detail_item_bullet_point'>
-                  Designed and Developed an intuitive app in Java using Android Studio.
+                  Developed a native android app that allowed its users to be well versed with essential aspects of their neighborhood 
+                  - Hospitals, Parks, Public Transport Options, etc using Android Studio.
                 </li>
                 <li className='resume_experience_detail_item_bullet_point'>
-                  Translated design requirements into interactive user friendly experience, resulting in a 25% surge in active user engagement.
+                  Collaborated with the design team to build interfaces that were high performing and aesthetic.
                 </li>    
                 <li className='resume_experience_detail_item_bullet_point'>
                   Managed visually engaging and interactive high-performance mobile applications using Java, 
@@ -98,7 +99,7 @@ function Resume() {
                   Implementing agile/scrum methodology for code development in order to meet tight deadlines.
                 </li>    
                 <li className='resume_experience_detail_item_bullet_point'>
-                  Utilized REST API and HTTPS requests to extract vital data from JSON responses, facilitating streamlined information retrieval and enhancing data processing.
+                  Itegrated REST API and HTTPS requests to extract vital data from JSON responses, facilitating streamlined information retrieval and enhancing data processing.
                 </li>
                 <li className='resume_experience_detail_item_bullet_point'>
                   Integrated Google Firebase for analytics and MongoDB for secure user data storage and authentication.
