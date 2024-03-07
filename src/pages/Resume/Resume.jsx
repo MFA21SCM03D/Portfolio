@@ -35,6 +35,20 @@ function Resume() {
         </div>
           <ul className="resume_experience_detail">
             <li className="resume_experience_detail_item">
+              <h5 className='resume_experience_detail_item_title'>Freelance FrontEnd Developer</h5>
+              <h5 className="resume_experience_detail_item_subtitle">Bloomintek</h5>
+              <span>Oct 2023 - Present</span>
+              <ul className='.resume_experience_detail_item_bullet'>
+                <li className='resume_experience_detail_item_bullet_point'>Developed a complete cross-platform mobile application using ReactNative and Material UI which utilized REST API requests and responses.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented JWT for secure authentication, ensuring robust frontend security and validation.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Collaborated with stakeholders and design team and seamlessly translating Figma designs to responsive React components.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Reviewed code for proper structure, compatibility, and adherence to standards, enhancing performance.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Mentored frontend engineer intern working on a website based on ReactJS.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Developed a dynamic web application using ReactJS, CSS, HTML, JavaScript, and Material UI which utilized REST API.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Worked in a fast paced start-up environment meeting tight deadlines with high quality deliverables and utilizing current technological trends.</li>
+              </ul>
+            </li>
+            <li className="resume_experience_detail_item">
               <h5 className='resume_experience_detail_item_title'>Graduate Teaching Assistance</h5>
               <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
               <span>Jan 2021 - Dec 2022</span>
