@@ -13,7 +13,7 @@ function Home() {
       <div className="home_aboutme_desc">
         <h3>Hi there,</h3>
         <br/>
-        I am a Frontend Software Developer, graduated from the Illinois Institute of Technology, Chicago, achieving a stellar 3.90 GPA. 
+        I am a Software Developer, graduated from the Illinois Institute of Technology, Chicago, achieving a stellar 3.90 GPA. 
         Currently seeking opportunities as a Software Engineer, I bring over 2 years of experience.
         <br /><br />
         Passionate about staying ahead of industry trends, I have contributed to diverse projects and demonstrate a commitment to continuous learning. 
