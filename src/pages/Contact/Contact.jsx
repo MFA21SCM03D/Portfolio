@@ -107,7 +107,7 @@ function Contact() {
       <hr/>
       <section className="contact_map">
         <figure className="contact_map_embed">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d190255.8460334488!2d-87.73196395!3d41.83373295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2c3cd0f4cbed%3A0xafe0a6ad09c0c000!2sChicago%2C%20IL!5e0!3m2!1sen!2sus!4v1703536061631!5m2!1sen!2sus" 
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12646201.004023945!2d-104.05824400058673!3d39.30068989979106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited%20States!5e0!3m2!1sen!2sus!4v1714172491041!5m2!1sen!2sus" 
             title= "google map embed" width="400" height="300"loading="lazy"></iframe>
         </figure>
       </section>
