@@ -34,7 +34,7 @@ function SidePanel() {
                 </figure>
                 <div>
                     <h2 className="sidepanel_profile_title">Mayuresh Deshmukh</h2>
-                    <h5 className="sidepanel_profile_job">Frontend Developer</h5>
+                    <h5 className="sidepanel_profile_job">Software Developer</h5>
                 </div>
             </div>                    
             

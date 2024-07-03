@@ -18,6 +18,9 @@ function Home() {
         My tech repertoire includes proficiency in Reactjs, HTML5, CSS3, JavaScript, TypeScript, Zod, Figma, Zeplin, Storybook, Jira, Git, MySQL, Python and Java. 
         My expertise spans from Web Apllication and Mobile Application Development, marked by effective communication, strong ownership and a commitment to high-quality products. My professional journey has seen me delve into various aspects of software engineering, including a personal project — an Anime recommendation web app showcasing my skills in Reactjs, Python, FastAPI, and MongoDB, a cross platform mobile application using React Native, Typescript. Passionate Frontend Development and about staying ahead of industry trends, I have contributed to diverse projects and demonstrate a commitment to continuous learning. 
         <br /><br />
+        Currently I am working as a Software Engineer at Bloomintek where I led 3 projects and mentored a junior developer and led development of cross-platform Mobile 
+        Application using React Native and also led the development of a crucial backend API using Java and Spring Boot. I performed testing and also managed version control for each of the applications.
+        <br /><br />
         Beyond technology, I am an avid sports enthusiast, particularly in football, enjoy engaging in video games like Valorant, and proudly identify as a devoted anime fan and geek.
         I invite you to explore my portfolio and look forward to connecting with like-minded professionals and potential collaborators.
       </div>
