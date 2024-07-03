@@ -13,14 +13,10 @@ function Home() {
       <div className="home_aboutme_desc">
         <h3>Hi there,</h3>
         <br/>
-        I am a Frontend Software Developer, graduated from the Illinois Institute of Technology, Chicago, achieving a stellar 3.90 GPA. 
-        Currently seeking opportunities as a Software Engineer, I bring over 2 years of experience.
+        Hello, I am Mayuresh Deshmukh a seasoned Frontend Software Developer, with over 3 years of experience.
         <br /><br />
-        Passionate about staying ahead of industry trends, I have contributed to diverse projects and demonstrate a commitment to continuous learning. 
-        My tech repertoire includes proficiency in Reactjs, Nextjs, MySQL, Python, HTML5, CSS3, JavaScript, TypeScript, Figma, Zeplin, GatsbyJS, Jira, and Git. 
-        My professional journey has seen me delve into various aspects of software engineering, including a personal project—an Anime recommendation web app showcasing 
-        my skills in Reactjs, Python, FastAPI, and MongoDB. While my preference leans towards Frontend Developer roles, I am open to exploring opportunities that align 
-        with my skills and passion for crafting interactive and visually appealing applications.
+        My tech repertoire includes proficiency in Reactjs, HTML5, CSS3, JavaScript, TypeScript, Zod, Figma, Zeplin, Storybook, Jira, Git, MySQL, Python and Java. 
+        My expertise spans from Web Apllication and Mobile Application Development, marked by effective communication, strong ownership and a commitment to high-quality products. My professional journey has seen me delve into various aspects of software engineering, including a personal project — an Anime recommendation web app showcasing my skills in Reactjs, Python, FastAPI, and MongoDB, a cross platform mobile application using React Native, Typescript. Passionate Frontend Development and about staying ahead of industry trends, I have contributed to diverse projects and demonstrate a commitment to continuous learning. 
         <br /><br />
         Beyond technology, I am an avid sports enthusiast, particularly in football, enjoy engaging in video games like Valorant, and proudly identify as a devoted anime fan and geek.
         I invite you to explore my portfolio and look forward to connecting with like-minded professionals and potential collaborators.

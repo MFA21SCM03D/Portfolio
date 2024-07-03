@@ -1,4 +1,4 @@
-export {default as Profile} from '../assets/profile.JPG';
+export {default as Profile} from '../assets/profile.jpeg';
 export {default as AndroidStudio} from '../assets/AndroidStudio.svg'
 export {default as CSS3} from '../assets/CSS3.svg';
 export {default as Docker} from '../assets/Docker.svg';
