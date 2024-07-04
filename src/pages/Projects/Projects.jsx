@@ -124,7 +124,7 @@ function Projects() {
             </a>
         </div>
         <div className="projects_grid_card">
-            <a href='https://github.com/MFA21SCM03D/HealthCare' target='_blank' rel='noopener noreferrer'>
+            <a href='https://github.com/MFA21SCM03D/Pokedex' target='_blank' rel='noopener noreferrer'>
               <div className="projects_grid_card_figure">
                 <h3> The Ultimate Pokedex </h3>
                 <p className='projects_grid_card_title'>Mobile Application</p>
