@@ -39,19 +39,21 @@ function Resume() {
               <h5 className="resume_experience_detail_item_subtitle">Bloomintek</h5>
               <span>Oct 2023 - Present</span>
               <ul className='.resume_experience_detail_item_bullet'>
-                <li className='resume_experience_detail_item_bullet_point'>Developed a complete cross-platform mobile application using ReactNative and Material UI which utilized REST API requests and responses.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Implemented JWT for secure authentication, ensuring robust frontend security and validation.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Developed acomplete cross-platform mobile application using React Native, TypeScript and Material UI which utilized REST API requests and responses.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented JWTfor secure authentication, ensuring robust frontend security and validation.</li>    
                 <li className='resume_experience_detail_item_bullet_point'>Collaborated with stakeholders and design team and seamlessly translating Figma designs to responsive React components.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Reviewed code for proper structure, compatibility, and adherence to standards, enhancing performance.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Mentored frontend engineer intern working on a website based on ReactJS.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Developed a dynamic web application using ReactJS, CSS, HTML, JavaScript, and Material UI which utilized REST API.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Worked in a fast paced start-up environment meeting tight deadlines with high quality deliverables and utilizing current technological trends.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented Zod for server side data validation, TypeScript for client side validation and Cypress and Jest for testing the UI.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Translated Figma design into user friendly modern UI and built and tested each UI component in isolation using StoryBook.</li>
               </ul>
             </li>
             <li className="resume_experience_detail_item">
               <h5 className='resume_experience_detail_item_title'>Graduate Teaching Assistance</h5>
               <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
-              <span>Jan 2021 - Dec 2022</span>
+              <span>Jan 2022 - Dec 2022</span>
               <ul className='.resume_experience_detail_item_bullet'>
                 <li className='resume_experience_detail_item_bullet_point'>Held 2 office hours a week to coach and guide students to fathom coursework and topics covering web fundamentals </li>
                 <li className='resume_experience_detail_item_bullet_point'>Addressed student’s doubts, aided professors with 2 exam monitoring.</li>    
@@ -59,13 +61,15 @@ function Resume() {
               </ul>
             </li>
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>Full Stack Developer</h5>
+              <h5 className='resume_experience_detail_item_title'>FrontEnd Developer</h5>
               <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
-              <span>June 2020 - Jan 2021</span>
+              <span>June 2021 - Jan 2022</span>
               <ul className='.resume_experience_detail_item_bullet'>
                 <li className='resume_experience_detail_item_bullet_point'>
-                  Managed and optimized three websites, implementing Bitbucket for version control, 
-                  resulting in a 20% improvement in development efficiency and fostering enhanced collaboration among team members.
+                  Utilized React.js, TypeScript, HTML, and CSS to create responsive, user-friendly interfaces.
+                </li>
+                <li className='resume_experience_detail_item_bullet_point'>
+                  Improved development efficiency and team collaboration with Bitbucket for version control.
                 </li>
                 <li className='resume_experience_detail_item_bullet_point'>
                   Implemented proactive monthly data backups across on-premise and cloud platforms, 
@@ -86,7 +90,10 @@ function Resume() {
                   leveraging RSA and AES encryption algorithms, resulting in prompt issue resolution and improved access control.
                 </li>    
                 <li className='resume_experience_detail_item_bullet_point'>
-                  Revamped web UI interface, introducing innovative features, resulting in an 11% surge in web traffic and clicks for enhanced user engagement.
+                  Redesigned the web UI resulting in an 11% increase in web traffic and clicks.
+                </li>
+                <li className='resume_experience_detail_item_bullet_point'>
+                  Improveduser retention and satisfaction through intuitive design and enhanced navigation.
                 </li>
               </ul>
             </li>
@@ -116,7 +123,7 @@ function Resume() {
                   Itegrated REST API and HTTPS requests to extract vital data from JSON responses, facilitating streamlined information retrieval and enhancing data processing.
                 </li>
                 <li className='resume_experience_detail_item_bullet_point'>
-                  Integrated Google Firebase for analytics and MongoDB for secure user data storage and authentication.
+                  Integrated Tableau for analytics and MongoDB for secure user data storage and authentication.
                 </li>
               </ul>
             </li>
