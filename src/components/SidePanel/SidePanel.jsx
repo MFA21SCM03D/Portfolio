@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import {Profile} from "../../assets"
+import {Profile} from "../../assets/profile.jpeg"
 import './SidePanel.css'
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
