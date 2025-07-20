@@ -34,7 +34,7 @@ function SidePanel() {
                 </figure>
                 <div>
                     <h2 className="sidepanel_profile_title">Mayuresh Deshmukh</h2>
-                    <h5 className="sidepanel_profile_job">Frontend Developer</h5>
+                    <h5 className="sidepanel_profile_job">Software Developer</h5>
                 </div>
             </div>                    
             
@@ -48,7 +48,7 @@ function SidePanel() {
                             </a>
                             <div className="sidepanel_info_email_details">
                                 <p className='sidepanel_info_email_details_label'>EMAIL</p>
-                                <a href='mailto:mdeshmukh1@hawk.iit.edu'>mdeshmukh1@hawk.iit.edu</a>
+                                <a href='mailto:mdeshmukh1@hawk.iit.edu'>mayurdeshmukh2442@gmail.com</a>
                             </div>
                         </div>
                         <div className="sidepanel_info_phone">
