@@ -1,6 +1,5 @@
 import React from 'react'
 import './App.css';
-import { SidePanel } from '../src/components'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { NavBar } from './components';
 import { Home, Contact, Skills, Projects, Resume } from './pages';
