@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import { Sidepanel } from '../../components';
+import { SidePanel } from '../../components';
 import SmartphoneIcon from '@mui/icons-material/Smartphone';
 import { CameraEnhanceOutlined} from '@mui/icons-material';
 import IntegrationInstructionsOutlinedIcon from '@mui/icons-material/IntegrationInstructionsOutlined';
@@ -9,7 +9,7 @@ import PaletteOutlinedIcon from '@mui/icons-material/PaletteOutlined';
 function Home() {
   return (
     <>
-      <Sidepanel/>
+      <SidePanel/>
       <main className="home">
         <h1>About me</h1>
         <hr />
