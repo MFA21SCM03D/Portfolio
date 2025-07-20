@@ -131,6 +131,7 @@ hr {
 .sidepanel a {
     color: inherit;
     text-decoration: none;
+    font-size: 0.8rem;
 }
 
 .sidepanel_info_socials_icon {
