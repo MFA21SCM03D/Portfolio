@@ -1,5 +1,6 @@
 import React from 'react';
-import './Home.css'
+import './Home.css';
+import { SidePanel } from '../src/components';
 import SmartphoneIcon from '@mui/icons-material/Smartphone';
 import { CameraEnhanceOutlined} from '@mui/icons-material';
 import IntegrationInstructionsOutlinedIcon from '@mui/icons-material/IntegrationInstructionsOutlined';
