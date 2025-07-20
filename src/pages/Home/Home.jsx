@@ -13,10 +13,9 @@ function Home() {
       <div className="home_aboutme_desc">
         <h3>Hi there,</h3>
         <br/>
-        Hello, I am Mayuresh Deshmukh a seasoned Frontend Software Developer, with over 3 years of experience.
+        Hello, I am Mayuresh Deshmukh a seasoned Software Developer, with close to half a decade of experience.
         <br /><br />
-        My tech repertoire includes proficiency in Reactjs, HTML5, CSS3, JavaScript, TypeScript, Zod, Figma, Zeplin, Storybook, Jira, Git, MySQL, Python and Java. 
-        My expertise spans from Web Apllication and Mobile Application Development, marked by effective communication, strong ownership and a commitment to high-quality products. My professional journey has seen me delve into various aspects of software engineering, including a personal project — an Anime recommendation web app showcasing my skills in Reactjs, Python, FastAPI, and MongoDB, a cross platform mobile application using React Native, Typescript. Passionate Frontend Development and about staying ahead of industry trends, I have contributed to diverse projects and demonstrate a commitment to continuous learning. 
+        I’m a versatile developer with proven expertise in frontend and backend development for web and mobile applications. I combine strong technical skills with clear communication, ownership, and a commitment to delivering high-quality, well-coordinated projects within set timelines. My experience includes building an Anime recommendation web app with ReactJS, Python, FastAPI, and MongoDB, and a cross-platform mobile app using React Native and TypeScript. Passionate about modern frontend development and staying ahead of industry trends, I focus on creating seamless user experiences while continuously learning and growing.
         <br /><br />
         Beyond technology, I am an avid sports enthusiast, particularly in football, enjoy engaging in video games like Valorant, and proudly identify as a devoted anime fan and geek.
         I invite you to explore my portfolio and look forward to connecting with like-minded professionals and potential collaborators.
