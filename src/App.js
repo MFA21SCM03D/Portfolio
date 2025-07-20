@@ -11,7 +11,6 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
   return (
     <div className='app'>
-      <SidePanel/>
       <section className='app_main'>
         <Router>
             <NavBar/>
