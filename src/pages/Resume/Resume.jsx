@@ -35,12 +35,27 @@ function Resume() {
         </div>
           <ul className="resume_experience_detail">
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>Freelance FrontEnd Developer</h5>
+              <h5 className='resume_experience_detail_item_title'>Associate Consultant</h5>
+              <h5 className="resume_experience_detail_item_subtitle">Capgemini</h5>
+              <span>Aug 2024</span>
+              <ul className='.resume_experience_detail_item_bullet'>
+                <li className='resume_experience_detail_item_bullet_point'>Owned migration of two legacy APIs to Java 21, Spring Boot 3.x, and Gradle 8.x from Java 8 and WebSphere.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Delivered migration in 2 weeks—well ahead of a 6-month estimate—by analyzing and optimizing application performance.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Collaborated with cross-functional teams to integrate downstream services and ensure smooth deployments.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Deployed APIs to OpenShift (OCP) using Trident pipelines and Helm charts.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Led root cause analysis and resolved critical production issues as part of the Rapid Response Team.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Guided teammates in development, debugging, and research tasks; fostered a collaborative team culture.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Generated well-structured API documentation using Swagger/OpenAPI.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Refactored and maintained critical batch job workflows tailored to operations and scheduled via Autosys.</li>
+              </ul>
+            </li>
+            <li className="resume_experience_detail_item">
+              <h5 className='resume_experience_detail_item_title'>Software Developer</h5>
               <h5 className="resume_experience_detail_item_subtitle">Bloomintek</h5>
-              <span>Oct 2023 - Present</span>
+              <span>Oct 2023 - Aug 2024</span>
               <ul className='.resume_experience_detail_item_bullet'>
                 <li className='resume_experience_detail_item_bullet_point'>Developed acomplete cross-platform mobile application using React Native, TypeScript and Material UI which utilized REST API requests and responses.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Implemented JWTfor secure authentication, ensuring robust frontend security and validation.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Implemented JWT for secure authentication, ensuring robust frontend security and validation.</li>    
                 <li className='resume_experience_detail_item_bullet_point'>Collaborated with stakeholders and design team and seamlessly translating Figma designs to responsive React components.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Reviewed code for proper structure, compatibility, and adherence to standards, enhancing performance.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Mentored frontend engineer intern working on a website based on ReactJS.</li>
