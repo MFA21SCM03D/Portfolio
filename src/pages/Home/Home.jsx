@@ -13,7 +13,7 @@ function Home() {
       <div className="home_aboutme_desc">
         <h3>Hi there,</h3>
         <br/>
-        Hello, I am Mayuresh Deshmukh a seasoned Software Developer, with close to half a decade of experience.
+        I am Mayuresh Deshmukh a seasoned Software Developer, with close to half a decade of experience.
         <br /><br />
         I’m a versatile developer with proven expertise in frontend and backend development for web and mobile applications. I combine strong technical skills with clear communication, ownership, and a commitment to delivering high-quality, well-coordinated projects within set timelines. My experience includes building an Anime recommendation web app with ReactJS, Python, FastAPI, and MongoDB, and a cross-platform mobile app using React Native and TypeScript. Passionate about modern frontend development and staying ahead of industry trends, I focus on creating seamless user experiences while continuously learning and growing.
         <br /><br />
