@@ -1,5 +1,6 @@
 import React from 'react'
 import './App.css';
+import { SidePanel } from '../src/components'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { NavBar } from './components';
 import { Home, Contact, Skills, Projects, Resume } from './pages';
@@ -10,6 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
   return (
     <div className='app'>
+      <SidePanel/>
       <section className='app_main'>
         <Router>
             <NavBar/>
