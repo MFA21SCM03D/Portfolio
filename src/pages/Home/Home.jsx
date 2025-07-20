@@ -7,6 +7,7 @@ import PaletteOutlinedIcon from '@mui/icons-material/PaletteOutlined';
 
 function Home() {
   return (
+    <Sidepanel/>
     <main className="home">
       <h1>About me</h1>
       <hr />
@@ -27,28 +28,28 @@ function Home() {
             <IntegrationInstructionsOutlinedIcon className='home_work_overview_grid_card_icons'/>
             <div className="home_work_overview_grid_card_details">
               <h3>Web Development</h3>
-              <p>High-quality development of sites at professional level.</p>
+              <p>High performant web application.</p>
             </div>
           </div>
           <div className="home_work_overview_grid_card">
             <SmartphoneIcon className='home_work_overview_grid_card_icons'/>
             <div className="home_work_overview_grid_card_details">
               <h3>Mobile Development</h3>
-              <p>High-quality development of applications for both iOS & Android.</p>
+              <p>High-quality cross-platform applications.</p>
             </div>
           </div>
           <div className="home_work_overview_grid_card">
             <PaletteOutlinedIcon className="home_work_overview_grid_card_icons"/>
             <div className="home_work_overview_grid_card_details">
-              <h3>Web Design</h3>
-              <p>High-quality web design of sites and applications.</p>
+              <h3>Anime and Manga</h3>
+              <p>Recommendations are always welcomed.</p>
             </div>
           </div>
           <div className="home_work_overview_grid_card">
             <CameraEnhanceOutlined className='home_work_overview_grid_card_icons'/>
             <div className="home_work_overview_grid_card_details">
               <h3>Photography</h3>
-              <p>High-quality photos of any category at a professional level.</p>
+              <p>Trying to graduate from novice to expert.</p>
             </div>
           </div>
         </div>
