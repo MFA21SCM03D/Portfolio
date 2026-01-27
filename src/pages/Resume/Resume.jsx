@@ -35,22 +35,25 @@ function Resume() {
         </div>
           <ul className="resume_experience_detail">
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>Associate Consultant</h5>
-              <h5 className="resume_experience_detail_item_subtitle">Capgemini</h5>
-              <span>Aug 2024</span>
+              <h5 className='resume_experience_detail_item_title'>FullStack Software Engineer</h5>
+              <h5 className="resume_experience_detail_item_subtitle">Discover</h5>
+              <span>Aug 2024 - Jan 2026</span>
               <ul className='.resume_experience_detail_item_bullet'>
-                <li className='resume_experience_detail_item_bullet_point'>Owned migration of two legacy APIs to Java 21, Spring Boot 3.x, and Gradle 8.x from Java 8 and WebSphere.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Delivered migration in 2 weeks—well ahead of a 6-month estimate—by analyzing and optimizing application performance.</li>    
-                <li className='resume_experience_detail_item_bullet_point'>Collaborated with cross-functional teams to integrate downstream services and ensure smooth deployments.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Deployed APIs to OpenShift (OCP) using Trident pipelines and Helm charts.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Led root cause analysis and resolved critical production issues as part of the Rapid Response Team.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Guided teammates in development, debugging, and research tasks; fostered a collaborative team culture.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Generated well-structured API documentation using Swagger/OpenAPI.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Refactored and maintained critical batch job workflows tailored to operations and scheduled via Autosys.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Led modernization and migration of legacy applications from Java 8 to Java 21, with zero downtime, improving reliability and enabling faster delivery cycles by completing a project estimated at 6 months in only 2 weeks (≈600% acceleration).</li>
+                <li className='resume_experience_detail_item_bullet_point'>Improved API performance by 3% - 5% by eliminating bottlenecks and optimizing legacy code paths.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Reduced deployment failures by 20% through automated CI/CD pipelines and validation gates.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Built and deployed scalable, cloud ready OpenShift services  using Helm and CI/CD pipeline,  reducing deployment failures by 20% and increasing delivery frequency.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented automation framework with 400+ test suites, increasing regression coverage to 90% and cutting manual testing effort by 30%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Led RCAs for high-severity incidents, reducing MTTR by 30% via logging standards, metrics, dashboards, and proactive issue detection.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Stabilized Autosys batch jobs, reducing job failure rates by 25%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Collaborated with cross-functional teams and business stakeholders to integrate downstream services, decrease release friction, reduce dependency by 15% , ensuring consistent delivery and business alignment.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Mentored teammates removed blockers, improving sprint throughput and reducing cycle time by 10–12% and increasing engagement by 25%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Resolved security vulnerabilities and code hotspots, reducing risk exposure and improving application health scores.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Participated actively in sprint planning, backlog refinement, daily stand-ups, and sprint retrospectives.</li>
               </ul>
             </li>
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>Software Developer</h5>
+              <h5 className='resume_experience_detail_item_title'>FullStack Software Developer</h5>
               <h5 className="resume_experience_detail_item_subtitle">Bloomintek</h5>
               <span>Oct 2023 - Aug 2024</span>
               <ul className='.resume_experience_detail_item_bullet'>
@@ -63,16 +66,6 @@ function Resume() {
                 <li className='resume_experience_detail_item_bullet_point'>Worked in a fast paced start-up environment meeting tight deadlines with high quality deliverables and utilizing current technological trends.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Implemented Zod for server side data validation, TypeScript for client side validation and Cypress and Jest for testing the UI.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Translated Figma design into user friendly modern UI and built and tested each UI component in isolation using StoryBook.</li>
-              </ul>
-            </li>
-            <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>Graduate Teaching Assistance</h5>
-              <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
-              <span>Jan 2022 - Dec 2022</span>
-              <ul className='.resume_experience_detail_item_bullet'>
-                <li className='resume_experience_detail_item_bullet_point'>Held 2 office hours a week to coach and guide students to fathom coursework and topics covering web fundamentals </li>
-                <li className='resume_experience_detail_item_bullet_point'>Addressed student’s doubts, aided professors with 2 exam monitoring.</li>    
-                <li className='resume_experience_detail_item_bullet_point'>Supervised 56 student Github repositories and conducted code reviews.</li>
               </ul>
             </li>
             <li className="resume_experience_detail_item">
@@ -113,8 +106,8 @@ function Resume() {
               </ul>
             </li>
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>Mobile Application Developer</h5>
-              <h5 className="resume_experience_detail_item_subtitle">TechR Bussiness Solutions, Pune</h5>
+              <h5 className='resume_experience_detail_item_title'>Software Developer Lead</h5>
+              <h5 className="resume_experience_detail_item_subtitle">TechR Bussiness Solutions</h5>
               <span>June 2019 - Nov 2020</span>
               <ul className='.resume_experience_detail_item_bullet'>
                 <li className='resume_experience_detail_item_bullet_point'>
@@ -143,6 +136,26 @@ function Resume() {
               </ul>
             </li>
           </ul>
+      </div>
+      <div className="resume_experience">
+        <div className="resume_experience_indicator">
+          <button><WorkOutlineOutlinedIcon/></button>
+          <h3>Leadership & Mentorship</h3>
+        </div>
+        <ul className="resume_experience_detail">
+           <li className="resume_experience_detail_item">
+                <h5 className='resume_experience_detail_item_title'>Graduate Teaching Assistance</h5>
+                <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
+                <span>Jan 2022 - Dec 2022</span>
+            <ul className='.resume_experience_detail_item_bullet'>
+              <li className='resume_experience_detail_item_bullet_point'>Mentored 50+ students per semester through structured office hours and individual sessions resolving queries and issues.</li>
+              <li className='resume_experience_detail_item_bullet_point'>Conducted bi-weekly office hours, engaging with students one on one, improving student completion rates and reducing doubt cycles.</li>
+              <li className='resume_experience_detail_item_bullet_point'>Supervised exams and co-coordinated with faculty, ensuring fairness and consistent assessment execution.</li>
+              <li className='resume_experience_detail_item_bullet_point'>Supported international students across multiple time zones, increasing accessibility and engagement.</li>
+              <li className='resume_experience_detail_item_bullet_point'>Provided hands-on debugging and concept guidance, improving average student performance.</li>
+            </ul>
+           </li>
+        </ul>
       </div>
     </main>
   )
