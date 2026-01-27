@@ -2,6 +2,7 @@ import React from 'react'
 import './Resume.css'
 import SchoolOutlinedIcon from '@mui/icons-material/SchoolOutlined';
 import WorkOutlineOutlinedIcon from '@mui/icons-material/WorkOutlineOutlined';
+import MilitaryTechIcon from '@mui/icons-material/MilitaryTech';
 
 function Resume() {
   return (
@@ -139,7 +140,7 @@ function Resume() {
       </div>
       <div className="resume_experience">
         <div className="resume_experience_indicator">
-          <button><WorkOutlineOutlinedIcon/></button>
+          <button><MilitaryTechIcon/></button>
           <h3>Leadership & Mentorship</h3>
         </div>
         <ul className="resume_experience_detail">
