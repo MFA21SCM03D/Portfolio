@@ -36,7 +36,7 @@ function Resume() {
         </div>
           <ul className="resume_experience_detail">
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>FullStack Software Engineer</h5>
+              <h5 className='resume_experience_detail_item_title'>Full-stack Software Engineer</h5>
               <h5 className="resume_experience_detail_item_subtitle">Discover</h5>
               <span>Aug 2024 - Jan 2026</span>
               <ul className='.resume_experience_detail_item_bullet'>
@@ -54,12 +54,12 @@ function Resume() {
               </ul>
             </li>
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>FullStack Software Developer</h5>
+              <h5 className='resume_experience_detail_item_title'>Full-stack Software Developer</h5>
               <h5 className="resume_experience_detail_item_subtitle">Bloomintek</h5>
               <span>Oct 2023 - Aug 2024</span>
               <ul className='.resume_experience_detail_item_bullet'>
-                <li className='resume_experience_detail_item_bullet_point'>Developed acomplete cross-platform mobile application using React Native, TypeScript and Material UI which utilized REST API requests and responses.</li>
-                <li className='resume_experience_detail_item_bullet_point'>Implemented JWT for secure authentication, ensuring robust frontend security and validation.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Developed React,  Spring Boot cross-platform applications,  reducing feature delivery time by 20–25%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented microservices architecture with Postgres, modular service layers and comprehensive testing, improving modularity and enabling parallel development.</li>    
                 <li className='resume_experience_detail_item_bullet_point'>Collaborated with stakeholders and design team and seamlessly translating Figma designs to responsive React components.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Reviewed code for proper structure, compatibility, and adherence to standards, enhancing performance.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Mentored frontend engineer intern working on a website based on ReactJS.</li>
@@ -67,73 +67,46 @@ function Resume() {
                 <li className='resume_experience_detail_item_bullet_point'>Worked in a fast paced start-up environment meeting tight deadlines with high quality deliverables and utilizing current technological trends.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Implemented Zod for server side data validation, TypeScript for client side validation and Cypress and Jest for testing the UI.</li>
                 <li className='resume_experience_detail_item_bullet_point'>Translated Figma design into user friendly modern UI and built and tested each UI component in isolation using StoryBook.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Designed secure schemas and APIs with role-based access controls, reducing security findings by 40%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Automated backend jobs with bash, crontab, and Autosys, cutting manual maintenance effort by 50%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Converted Figma designs into reusable ServiceNow components, reducing UI build time by 30%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Tested features in isolation using StoryBook and with unit tests using Cypress, decreasing UI defect rate by 15%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Mentored engineers and resolved blockers, scheduled a call weekly for updates, improving team velocity and knowledge sharing.</li>
               </ul>
             </li>
             <li className="resume_experience_detail_item">
-              <h5 className='resume_experience_detail_item_title'>FrontEnd Developer</h5>
+              <h5 className='resume_experience_detail_item_title'>FullStack Developer</h5>
               <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
               <span>June 2021 - Jan 2022</span>
               <ul className='.resume_experience_detail_item_bullet'>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Utilized React.js, TypeScript, HTML, and CSS to create responsive, user-friendly interfaces.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Improved development efficiency and team collaboration with Bitbucket for version control.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Implemented proactive monthly data backups across on-premise and cloud platforms, 
-                  bolstering data security and ensuring uninterrupted operations for a diverse dataset of 5TB.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Maintained visually appealing and interactive high-performing websites with a strong focus 
-                  on optimizing user experience, site speed, data accrual, and lead generation strategies.
-                </li>    
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Implementing agile/scrum methodology for code development in order to meet tight deadlines.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Led collaboration with external organization managing Drupal technology, successfully guiding the team to resolve login path issues through innovative solutions.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Collaborated closely with the supervisor to resolve login errors by rigorously troubleshooting and analyzing server files, 
-                  leveraging RSA and AES encryption algorithms, resulting in prompt issue resolution and improved access control.
-                </li>    
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Redesigned the web UI resulting in an 11% increase in web traffic and clicks.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Improveduser retention and satisfaction through intuitive design and enhanced navigation.
-                </li>
+                <li className='resume_experience_detail_item_bullet_point'>Managed and maintained three high-traffic websites, maintaining 99.9% uptime.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Improved development efficiency and team collaboration with Bitbucket for version control.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented proactive monthly data backups across on-premise and cloud platforms, bolstering data security and ensuring uninterrupted operations for a diverse dataset of 5TB.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Maintained visually appealing and interactive high-performing websites with a strong focus on optimizing user experience, site speed, data accrual, and lead generation strategies.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Implementing agile/scrum methodology for code development in order to meet tight deadlines.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Led collaboration with external organization managing Drupal technology, successfully guiding the team to resolve login path issues through innovative solutions.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Collaborated closely with the supervisor to resolve login errors by rigorously troubleshooting and analyzing server files, leveraging RSA and AES encryption algorithms, resulting in prompt issue resolution and improved access control.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Redesigned the web UI resulting in an 11% increase in web traffic and clicks.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Improved user retention and satisfaction through intuitive design and enhanced navigation.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Resolved encrypted external login issues, eliminating authentication defects and improving security.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented hybrid backup strategies supporting 5TB, reducing recovery time and risk.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Revamped UI, resulting in an 11% increase in traffic, page views, and engagement.</li>
               </ul>
             </li>
             <li className="resume_experience_detail_item">
               <h5 className='resume_experience_detail_item_title'>Software Developer Lead</h5>
               <h5 className="resume_experience_detail_item_subtitle">TechR Bussiness Solutions</h5>
-              <span>June 2019 - Nov 2020</span>
+              <span>May 2019 - Nov 2020</span>
               <ul className='.resume_experience_detail_item_bullet'>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Developed a native android app that allowed its users to be well versed with essential aspects of their neighborhood 
-                  - Hospitals, Parks, Public Transport Options, etc using Android Studio.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Collaborated with the design team to build interfaces that were high performing and aesthetic.
-                </li>    
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Managed visually engaging and interactive high-performance mobile applications using Java, 
-                  emphasizing the optimization of user experience, app speed, data accumulation, and lead generation strategies.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Evaluated code to ensure that it is valid is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Implementing agile/scrum methodology for code development in order to meet tight deadlines.
-                </li>    
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Itegrated REST API and HTTPS requests to extract vital data from JSON responses, facilitating streamlined information retrieval and enhancing data processing.
-                </li>
-                <li className='resume_experience_detail_item_bullet_point'>
-                  Integrated Tableau for analytics and MongoDB for secure user data storage and authentication.
-                </li>
+                <li className='resume_experience_detail_item_bullet_point'>Designed and delivered a native Android app, communicated with real-end users and stakeholders to get insights, increasing active engagement by 25%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented Google Maps proximity search, enabling nearby searches within 5 - 10km radius improving location-based recommendation accuracy by ≈20%.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Integrated Firebase Analytics for failure analysis, application insights and statistics and metrics, increasing event visibility and enabling data-driven feature decisions.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Used MongoDB for secure storage  to securely store user real-time data, reducing data-related issues and improving reliability.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Consumed REST APIs with optimized JSON processing, reducing network latency impact by 10–15%.</li>    
+                <li className='resume_experience_detail_item_bullet_point'>Built social features (chat, groups, forums) building a collaborative and engaging community within, increasing session duration by ≈12%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Designed modular UI components, improving UX consistency and reducing UI bugs by 18%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Led a team of 4 engineers, improving delivery predictability and reducing integration issues by 25%.</li>
+                <li className='resume_experience_detail_item_bullet_point'>Implemented notification workflows and real-time filters, increasing feature engagement.</li>
               </ul>
             </li>
           </ul>
@@ -145,7 +118,7 @@ function Resume() {
         </div>
         <ul className="resume_experience_detail">
            <li className="resume_experience_detail_item">
-                <h5 className='resume_experience_detail_item_title'>Graduate Teaching Assistance</h5>
+                <h5 className='resume_experience_detail_item_title'>Technical Graduate Assistant</h5>
                 <h5 className="resume_experience_detail_item_subtitle">Illinois Institute of Technology, Chicago</h5>
                 <span>Jan 2022 - Dec 2022</span>
             <ul className='.resume_experience_detail_item_bullet'>
