@@ -7,7 +7,9 @@ interface ProjectCardProps {
 
 const ProjectCard = ({ project }: ProjectCardProps) => {
 	return (
-		<article className='projects_card'>
+		<article
+			className='projects_card'
+			data-testid='project-card'>
 			<a
 				href={project.githubUrl}
 				target='_blank'

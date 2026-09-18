@@ -67,17 +67,25 @@ src/
 ├── components/
 │   └── ...
 │
-├── data/
-│   ├── projectsData.ts
-│   ├── resumeData.ts
-│   └── skillsData.ts
 │
 ├── pages/
 │   ├── Contact/
 │   ├── Home/
 │   ├── Projects/
+|   ├── components/
+│   └── ...
+|   ├── data/
+│   ├── projectsData.ts
 │   ├── Resume/
+|   ├── components/
+│   └── ...
+|   ├── data/
+│   ├── resumeData.ts
 │   └── Skills/
+|   ├── components/
+│   └── ...
+|   ├── data/
+│   └── skillsData.ts
 │
 ├── App.tsx
 ├── main.tsx
